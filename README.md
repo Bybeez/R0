@@ -1,1 +1,1 @@
-# R0
+Réponse au point 1 : Git est un logiciel de gestion de version, c'est a dire un logiciel permettant de garder l'historique de toute les modifications apportées au code, de savoir qui a fait des modifications et pourquoi, et de travailler a plusieurs sur le même projet sans ecraser le travail des autres.
